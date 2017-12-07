@@ -10,5 +10,20 @@
   "license": "ISC",
   "devDependencies": {
     "should": "^11.2.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "node-pre-gyp": "^0.6.39",
+    "nodegit": "^0.20.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clementbaudry/formation-devops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clementbaudry/formation-devops/issues"
+  },
+  "homepage": "https://github.com/clementbaudry/formation-devops#readme"
 }
